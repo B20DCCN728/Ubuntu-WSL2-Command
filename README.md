@@ -4,6 +4,7 @@
 
 ## 📄 Docs
 - Google Doc: https://docs.google.com/document/d/1rYFrKa04YUq4zBhvy9R45wXfriMbKcBxpFgFX9M4-ZY/edit?usp=sharing
+- Website: https://ubuntu-wsl-2-command.vercel.app/
 
 ---
 
