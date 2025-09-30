@@ -2,6 +2,11 @@
 
 ---
 
+## 📄 Docs
+- Google Doc: https://docs.google.com/document/d/1rYFrKa04YUq4zBhvy9R45wXfriMbKcBxpFgFX9M4-ZY/edit?usp=sharing
+
+---
+
 ## **📂 1\. File & Directory Commands**
 
 | Lệnh | Mô tả | Ví dụ |
@@ -144,4 +149,3 @@
 | `wsl --status` | Trạng thái WSL | `wsl --status` |
 | `wsl --set-version <distro> 2` | Chuyển sang WSL2 | `wsl --set-version Ubuntu 2` |
 | `wsl --unregister <distro>` | Xóa distro | `wsl --unregister Ubuntu` |
-
